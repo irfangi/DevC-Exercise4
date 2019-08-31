@@ -1,7 +1,13 @@
-.intro{
-    margin-top: 200px;
+.intro {
+	margin-top: 200px;
 }
 
-.intro-inner{
-    height: 25vh;
+.intro-inner {
+	height: 25vh;
+}
+.bg-kuning {
+	background-color: aquamarine;
+}
+.nav-card {
+	display: inline-block;
 }
